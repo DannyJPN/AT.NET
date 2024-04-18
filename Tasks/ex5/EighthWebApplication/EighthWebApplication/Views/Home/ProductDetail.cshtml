@@ -1,0 +1,29 @@
+﻿@model  BasketForm
+ProductDetail
+@{ 
+
+    Product pr = ViewBag.Product;
+    string bdata = ViewBag.Basket;
+}
+
+
+
+
+<h2>@pr.Name</h2>
+<p>Cena: @pr.Price</p>
+
+
+@using (Html.BeginForm())
+{
+     @Html.HiddenFor(x=>x.ProductID)
+    <div>
+        Pieces:
+        @Html.TextBoxFor(x => x.Count);
+        @Html.ValidationMessageFor(x => x.Count);
+    </div>
+    <div>
+        <button type="submit">Add</button>
+    </div>
+
+
+}

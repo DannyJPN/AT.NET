@@ -1,0 +1,7 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\XMLConsole\bin\Debug\XMLConsole.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\XMLConsole\bin\Debug\XMLConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\XMLConsole\bin\Debug\XMLConsole.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\XMLConsole\obj\Debug\XMLConsole.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\XMLConsole\obj\Debug\XMLConsole.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\XMLConsole\obj\Debug\XMLConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\XMLConsole\obj\Debug\XMLConsole.pdb

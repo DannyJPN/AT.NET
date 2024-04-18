@@ -1,0 +1,7 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TenthConsole\TenthConsole\bin\Debug\TenthConsole.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TenthConsole\TenthConsole\bin\Debug\TenthConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TenthConsole\TenthConsole\bin\Debug\TenthConsole.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TenthConsole\TenthConsole\obj\Debug\TenthConsole.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TenthConsole\TenthConsole\obj\Debug\TenthConsole.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TenthConsole\TenthConsole\obj\Debug\TenthConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TenthConsole\TenthConsole\obj\Debug\TenthConsole.pdb

@@ -1,0 +1,39 @@
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\CNBConsoleTest.exe.config
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\CNBConsoleTest.exe
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\CNBConsoleTest.pdb
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\MailKit.dll
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\MimeKit.dll
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\MailKit.xml
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\MimeKit.xml
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.csprojAssemblyReference.cache
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.csproj.CopyComplete
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.exe
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.pdb
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\CNBConsoleTest.exe.config
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\CNBConsoleTest.exe
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\CNBConsoleTest.pdb
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\MailKit.dll
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\MimeKit.dll
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\MailKit.xml
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\MimeKit.xml
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.csprojAssemblyReference.cache
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.csproj.CopyComplete
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.exe
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.pdb
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\CNBConsoleTest.exe.config
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\CNBConsoleTest.exe
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\CNBConsoleTest.pdb
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\MailKit.dll
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\MimeKit.dll
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\MailKit.xml
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\bin\Debug\MimeKit.xml
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.csproj.CopyComplete
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.exe
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.pdb
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBConsoleTest\obj\Debug\CNBConsoleTest.csprojAssemblyReference.cache

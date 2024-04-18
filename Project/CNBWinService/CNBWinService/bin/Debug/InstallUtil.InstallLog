@@ -1,0 +1,413 @@
+﻿
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+V průběhu instalační fáze došlo k výjimce.
+System.InvalidOperationException: Uživatel zrušil instalaci služeb ve spustitelném souboru C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+
+Zahajování odvolací fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odvolací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odinstalace byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odinstalace byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+V průběhu instalační fáze došlo k výjimce.
+System.ComponentModel.Win32Exception: Zadaná služba již existuje
+
+Zahajování odvolací fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odvolací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odinstalace byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odinstalace byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+V průběhu instalační fáze došlo k výjimce.
+System.ComponentModel.Win32Exception: Zadaná služba již existuje
+
+Zahajování odvolací fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odvolací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odinstalace byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odinstalace byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+V průběhu instalační fáze došlo k výjimce.
+System.ComponentModel.Win32Exception: Zadané zařízení je určeno na odstranění
+
+Zahajování odvolací fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odvolací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odinstalace byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+V průběhu instalační fáze došlo k výjimce.
+System.ComponentModel.Win32Exception: Zadané zařízení je určeno na odstranění
+
+Zahajování odvolací fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odvolací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odinstalace byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odinstalace byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odinstalace byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan\Dropbox\uni\vsb\vsb\bc_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odinstalace byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+V průběhu instalační fáze došlo k výjimce.
+System.ComponentModel.Win32Exception: Zadaná služba již existuje
+
+Zahajování odvolací fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odvolací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odinstalace byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+V průběhu instalační fáze došlo k výjimce.
+System.ComponentModel.Win32Exception: Zadaná služba již existuje
+
+Zahajování odvolací fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.
+Umístění souboru: C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.InstallLog
+
+Odvolací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.

@@ -1,0 +1,13 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\bin\Debug\NinthConsole.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\bin\Debug\NinthConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\bin\Debug\NinthConsole.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\obj\Debug\NinthConsole.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\obj\Debug\NinthConsole.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\obj\Debug\NinthConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\obj\Debug\NinthConsole.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\bin\Debug\MailKit.dll
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\bin\Debug\MimeKit.dll
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\bin\Debug\MailKit.xml
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\bin\Debug\MimeKit.xml
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex6\NinthConsole\NinthConsole\obj\Debug\NinthConsole.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthAppLib\bin\Debug\FourthAppLib.dll
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthAppLib\bin\Debug\FourthAppLib.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthAppLib\obj\Debug\FourthAppLib.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthAppLib\obj\Debug\FourthAppLib.dll
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthAppLib\obj\Debug\FourthAppLib.pdb

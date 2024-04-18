@@ -1,0 +1,48 @@
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.csprojAssemblyReference.cache
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.CNBDown.resources
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.csproj.GenerateResource.cache
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.csproj.CoreCompileInputs.cache
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.config
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.pdb
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\MailKit.dll
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\MimeKit.dll
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\MailKit.xml
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\MimeKit.xml
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.csproj.CopyComplete
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.exe
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.pdb
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.ProjectInstaller.resources
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.config
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.pdb
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\MailKit.dll
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\MimeKit.dll
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\MailKit.xml
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\MimeKit.xml
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.csprojAssemblyReference.cache
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.ProjectInstaller.resources
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.CNBDown.resources
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.csproj.GenerateResource.cache
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.csproj.CopyComplete
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.exe
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.pdb
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe.config
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.exe
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\CNBWinService.pdb
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\MailKit.dll
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\MimeKit.dll
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\MailKit.xml
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\bin\Debug\MimeKit.xml
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.ProjectInstaller.resources
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.CNBDown.resources
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.csproj.GenerateResource.cache
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.csproj.CopyComplete
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.exe
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.pdb
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Project\CNBWinService\CNBWinService\obj\Debug\CNBWinService.csprojAssemblyReference.cache

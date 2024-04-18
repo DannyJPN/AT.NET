@@ -1,0 +1,14 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\bin\Debug\netcoreapp2.2\SeventhWebApplication.deps.json
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\bin\Debug\netcoreapp2.2\SeventhWebApplication.runtimeconfig.json
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\bin\Debug\netcoreapp2.2\SeventhWebApplication.runtimeconfig.dev.json
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\bin\Debug\netcoreapp2.2\SeventhWebApplication.dll
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\bin\Debug\netcoreapp2.2\SeventhWebApplication.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\obj\Debug\netcoreapp2.2\SeventhWebApplication.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\obj\Debug\netcoreapp2.2\SeventhWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\obj\Debug\netcoreapp2.2\SeventhWebApplication.RazorAssemblyInfo.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\obj\Debug\netcoreapp2.2\SeventhWebApplication.RazorAssemblyInfo.cs
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\obj\Debug\netcoreapp2.2\SeventhWebApplication.AssemblyInfoInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\obj\Debug\netcoreapp2.2\SeventhWebApplication.AssemblyInfo.cs
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\obj\Debug\netcoreapp2.2\SeventhWebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\obj\Debug\netcoreapp2.2\SeventhWebApplication.dll
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex4\SeventhWebApplication\SeventhWebApplication\obj\Debug\netcoreapp2.2\SeventhWebApplication.pdb

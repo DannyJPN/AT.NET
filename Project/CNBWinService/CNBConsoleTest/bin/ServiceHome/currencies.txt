@@ -1,0 +1,35 @@
+16 Dec 2019 #243
+Country|Currency|Amount|Code|Rate
+Australia|dollar|1|AUD|15.755
+Brazil|real|1|BRL|5.601
+Bulgaria|lev|1|BGN|13.030
+Canada|dollar|1|CAD|17.430
+China|renminbi|1|CNY|3.266
+Croatia|kuna|1|HRK|3.424
+Denmark|krone|1|DKK|3.410
+EMU|euro|1|EUR|25.485
+Hongkong|dollar|1|HKD|2.934
+Hungary|forint|100|HUF|7.747
+Iceland|krona|100|ISK|18.629
+IMF|SDR|1|XDR|31.644
+India|rupee|100|INR|32.218
+Indonesia|rupiah|1000|IDR|1.632
+Israel|new shekel|1|ILS|6.548
+Japan|yen|100|JPY|20.893
+Malaysia|ringgit|1|MYR|5.520
+Mexico|peso|1|MXN|1.202
+New Zealand|dollar|1|NZD|15.117
+Norway|krone|1|NOK|2.542
+Philippines|peso|100|PHP|45.165
+Poland|zloty|1|PLN|5.975
+Romania|leu|1|RON|5.333
+Russia|rouble|100|RUB|36.492
+Singapore|dollar|1|SGD|16.881
+South Africa|rand|1|ZAR|1.580
+South Korea|won|100|KRW|1.953
+Sweden|krona|1|SEK|2.447
+Switzerland|franc|1|CHF|23.268
+Thailand|baht|100|THB|75.654
+Turkey|lira|1|TRY|3.908
+United Kingdom|pound|1|GBP|30.554
+USA|dollar|1|USD|22.863

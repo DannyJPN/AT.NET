@@ -1,0 +1,9 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\EleventhWindowsServiceApp\EleventhWindowsServiceApp\obj\Debug\EleventhWindowsServiceApp.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\EleventhWindowsServiceApp\EleventhWindowsServiceApp\obj\Debug\EleventhWindowsServiceApp.ProjectInstaller.resources
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\EleventhWindowsServiceApp\EleventhWindowsServiceApp\obj\Debug\EleventhWindowsServiceApp.csproj.GenerateResource.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\EleventhWindowsServiceApp\EleventhWindowsServiceApp\obj\Debug\EleventhWindowsServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\EleventhWindowsServiceApp\EleventhWindowsServiceApp\bin\Debug\EleventhWindowsServiceApp.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\EleventhWindowsServiceApp\EleventhWindowsServiceApp\bin\Debug\EleventhWindowsServiceApp.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\EleventhWindowsServiceApp\EleventhWindowsServiceApp\bin\Debug\EleventhWindowsServiceApp.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\EleventhWindowsServiceApp\EleventhWindowsServiceApp\obj\Debug\EleventhWindowsServiceApp.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\EleventhWindowsServiceApp\EleventhWindowsServiceApp\obj\Debug\EleventhWindowsServiceApp.pdb

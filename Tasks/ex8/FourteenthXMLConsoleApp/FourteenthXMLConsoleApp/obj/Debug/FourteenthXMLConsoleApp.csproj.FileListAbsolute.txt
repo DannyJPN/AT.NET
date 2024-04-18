@@ -1,0 +1,7 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\FourteenthXMLConsoleApp\FourteenthXMLConsoleApp\bin\Debug\FourteenthXMLConsoleApp.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\FourteenthXMLConsoleApp\FourteenthXMLConsoleApp\bin\Debug\FourteenthXMLConsoleApp.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\FourteenthXMLConsoleApp\FourteenthXMLConsoleApp\bin\Debug\FourteenthXMLConsoleApp.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\FourteenthXMLConsoleApp\FourteenthXMLConsoleApp\obj\Debug\FourteenthXMLConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\FourteenthXMLConsoleApp\FourteenthXMLConsoleApp\obj\Debug\FourteenthXMLConsoleApp.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\FourteenthXMLConsoleApp\FourteenthXMLConsoleApp\obj\Debug\FourteenthXMLConsoleApp.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\FourteenthXMLConsoleApp\FourteenthXMLConsoleApp\obj\Debug\FourteenthXMLConsoleApp.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\bin\Debug\ReflectionConsoleApp.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\bin\Debug\ReflectionConsoleApp.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\bin\Debug\ReflectionConsoleApp.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.pdb
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\bin\Debug\ReflectionConsoleApp.exe.config
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\bin\Debug\ReflectionConsoleApp.exe
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\bin\Debug\ReflectionConsoleApp.pdb
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.csprojAssemblyReference.cache
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.exe
+C:\Users\Dan\Dropbox\UNI\VSB\VSB\BC_IVT_III\S5\AT.NET\Tasks\ex9\Test1\ReflectionConsoleApp\ReflectionConsoleApp\obj\Debug\ReflectionConsoleApp.pdb

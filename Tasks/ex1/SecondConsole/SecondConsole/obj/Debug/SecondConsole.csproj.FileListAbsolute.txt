@@ -1,0 +1,6 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\SecondConsole\SecondConsole\bin\Debug\SecondConsole.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\SecondConsole\SecondConsole\bin\Debug\SecondConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\SecondConsole\SecondConsole\bin\Debug\SecondConsole.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\SecondConsole\SecondConsole\obj\Debug\SecondConsole.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\SecondConsole\SecondConsole\obj\Debug\SecondConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\SecondConsole\SecondConsole\obj\Debug\SecondConsole.pdb

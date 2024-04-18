@@ -1,0 +1,6 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\bin\Release\ThirdConsole.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\bin\Release\ThirdConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\bin\Release\ThirdConsole.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\obj\Release\ThirdConsole.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\obj\Release\ThirdConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\obj\Release\ThirdConsole.pdb

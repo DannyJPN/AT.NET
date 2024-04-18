@@ -1,0 +1,12 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TwelfthConsoleApp\TwelfthConsoleApp\bin\Debug\TwelfthConsoleApp.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TwelfthConsoleApp\TwelfthConsoleApp\bin\Debug\TwelfthConsoleApp.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TwelfthConsoleApp\TwelfthConsoleApp\bin\Debug\TwelfthConsoleApp.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TwelfthConsoleApp\TwelfthConsoleApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TwelfthConsoleApp\TwelfthConsoleApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TwelfthConsoleApp\TwelfthConsoleApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TwelfthConsoleApp\TwelfthConsoleApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TwelfthConsoleApp\TwelfthConsoleApp\obj\Debug\TwelfthConsoleApp.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TwelfthConsoleApp\TwelfthConsoleApp\obj\Debug\TwelfthConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TwelfthConsoleApp\TwelfthConsoleApp\obj\Debug\TwelfthConsoleApp.csproj.CopyComplete
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TwelfthConsoleApp\TwelfthConsoleApp\obj\Debug\TwelfthConsoleApp.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex7\TwelfthConsoleApp\TwelfthConsoleApp\obj\Debug\TwelfthConsoleApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\FirstConsole\FirstConsole\bin\Release\FirstConsole.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\FirstConsole\FirstConsole\bin\Release\FirstConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\FirstConsole\FirstConsole\bin\Release\FirstConsole.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\FirstConsole\FirstConsole\obj\Release\FirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\FirstConsole\FirstConsole\obj\Release\FirstConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\FirstConsole\FirstConsole\obj\Release\FirstConsole.pdb

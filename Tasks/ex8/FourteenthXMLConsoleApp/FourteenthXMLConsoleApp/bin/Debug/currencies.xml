@@ -1,0 +1,31 @@
+<currencies>
+  <country name="Country">CurrencyAmountCodeRate</country>
+  <country name="Australia">dollar1AUD15.754</country>
+  <country name="Brazil">real1BRL5.539</country>
+  <country name="Bulgaria">lev1BGN13.084</country>
+  <country name="Canada">dollar1CAD17.504</country>
+  <country name="China">renminbi1CNY3.297</country>
+  <country name="Croatia">kuna1HRK3.440</country>
+  <country name="Denmark">krone1DKK3.425</country>
+  <country name="EMU">euro1EUR25.590</country>
+  <country name="Hongkong">dollar1HKD2.955</country>
+  <country name="Hungary">forint100HUF7.633</country>
+  <country name="Iceland">krona100ISK18.830</country>
+  <country name="IMF">SDR1XDR31.800</country>
+  <country name="India">rupee100INR32.219</country>
+  <country name="Indonesia">rupiah1000IDR1.644</country>
+  <country name="Japan">yen100JPY21.228</country>
+  <country name="Malaysia">ringgit1MYR5.567</country>
+  <country name="Mexico">peso1MXN1.202</country>
+  <country name="Norway">krone1NOK2.537</country>
+  <country name="Philippines">peso100PHP45.630</country>
+  <country name="Poland">zloty1PLN5.963</country>
+  <country name="Romania">leu1RON5.359</country>
+  <country name="Russia">rouble100RUB36.234</country>
+  <country name="Singapore">dollar1SGD17.006</country>
+  <country name="Sweden">krona1SEK2.400</country>
+  <country name="Switzerland">franc1CHF23.349</country>
+  <country name="Thailand">baht100THB76.518</country>
+  <country name="Turkey">lira1TRY4.042</country>
+  <country name="USA">dollar1USD23.135</country>
+</currencies>

@@ -1,0 +1,7 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\FifthConsole\FifthConsole\bin\Debug\FifthConsole.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\FifthConsole\FifthConsole\bin\Debug\FifthConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\FifthConsole\FifthConsole\bin\Debug\FifthConsole.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\FifthConsole\FifthConsole\obj\Debug\FifthConsole.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\FifthConsole\FifthConsole\obj\Debug\FifthConsole.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\FifthConsole\FifthConsole\obj\Debug\FifthConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\FifthConsole\FifthConsole\obj\Debug\FifthConsole.pdb

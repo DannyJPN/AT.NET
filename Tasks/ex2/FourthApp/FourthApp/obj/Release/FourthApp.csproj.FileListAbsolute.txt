@@ -1,0 +1,6 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthApp\bin\Release\FourthApp.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthApp\bin\Release\FourthApp.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthApp\bin\Release\FourthApp.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthApp\obj\Release\FourthApp.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthApp\obj\Release\FourthApp.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthApp\obj\Release\FourthApp.pdb

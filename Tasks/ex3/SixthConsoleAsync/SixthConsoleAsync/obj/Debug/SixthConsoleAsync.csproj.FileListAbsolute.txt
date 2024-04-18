@@ -1,0 +1,6 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\SixthConsoleAsync\SixthConsoleAsync\bin\Debug\SixthConsoleAsync.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\SixthConsoleAsync\SixthConsoleAsync\bin\Debug\SixthConsoleAsync.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\SixthConsoleAsync\SixthConsoleAsync\bin\Debug\SixthConsoleAsync.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\SixthConsoleAsync\SixthConsoleAsync\obj\Debug\SixthConsoleAsync.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\SixthConsoleAsync\SixthConsoleAsync\obj\Debug\SixthConsoleAsync.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex3\SixthConsoleAsync\SixthConsoleAsync\obj\Debug\SixthConsoleAsync.pdb

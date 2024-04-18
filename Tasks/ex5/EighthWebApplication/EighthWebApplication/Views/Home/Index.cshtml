@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<!--
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+    -->
+
+    <ul>
+        @for (int i = 0; i < ViewBag.Products.Length; i++)
+        {
+
+            <b>@ViewBag.Products[i].Name</b>
+            <p>Cena: @ViewBag.Products[i].Price</p>
+            <a href="@Url.Action("ProductDetail","Home",new { id = ViewBag.Products[i].ID,param1="<1000",param2="meat"})">Detail</a>
+
+
+        }
+    </ul>

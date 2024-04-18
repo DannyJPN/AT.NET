@@ -1,0 +1,7 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\bin\Debug\ThirdConsole.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\bin\Debug\ThirdConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\bin\Debug\ThirdConsole.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\obj\Debug\ThirdConsole.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\obj\Debug\ThirdConsole.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\obj\Debug\ThirdConsole.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex1\ThirdConsole\ThirdConsole\obj\Debug\ThirdConsole.pdb

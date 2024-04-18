@@ -1,0 +1,7 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\ThirteenthPointerApp\ThirteenthPointerApp\bin\Debug\ThirteenthPointerApp.exe.config
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\ThirteenthPointerApp\ThirteenthPointerApp\bin\Debug\ThirteenthPointerApp.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\ThirteenthPointerApp\ThirteenthPointerApp\bin\Debug\ThirteenthPointerApp.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\ThirteenthPointerApp\ThirteenthPointerApp\obj\Debug\ThirteenthPointerApp.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\ThirteenthPointerApp\ThirteenthPointerApp\obj\Debug\ThirteenthPointerApp.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\ThirteenthPointerApp\ThirteenthPointerApp\obj\Debug\ThirteenthPointerApp.exe
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex8\ThirteenthPointerApp\ThirteenthPointerApp\obj\Debug\ThirteenthPointerApp.pdb

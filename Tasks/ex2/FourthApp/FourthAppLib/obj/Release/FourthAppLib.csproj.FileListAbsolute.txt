@@ -1,0 +1,6 @@
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthAppLib\bin\Release\FourthAppLib.dll
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthAppLib\bin\Release\FourthAppLib.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthAppLib\obj\Release\FourthAppLib.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthAppLib\obj\Release\FourthAppLib.dll
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthAppLib\obj\Release\FourthAppLib.pdb
+C:\Users\kru0142\Desktop\AT.NET\Tasks\ex2\FourthApp\FourthAppLib\obj\Release\FourthAppLib.csprojAssemblyReference.cache
